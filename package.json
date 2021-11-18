@@ -1,0 +1,26 @@
+{
+  "name": "tailwind-vanilla-starter",
+  "version": "0.1.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [
+    "tailwind",
+    "vanillajs",
+    "parceljs",
+    "starter-template"
+  ],
+  "author": "shiyaam",
+  "license": "MIT",
+  "dependencies": {
+    "parcel": "^2.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.3.11",
+    "tailwindcss": "^2.2.19"
+  }
+}
